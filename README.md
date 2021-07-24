@@ -14,7 +14,7 @@ to get the example of this toolchain.
 This repository uses submodules, but submodules will fetch automatically on demand,
 so `--recursive` or `git submodule update --init --recursive` is not needed.
 
-    git clone https://github.com/MapleBoard/mpb-toolchain/
+    git clone https://github.com/MapleBoard/mpb-toolchain.git
 
 **Warning: git clone takes around 6.65 GB of disk and download size**
 
