@@ -57,7 +57,7 @@ RISC-V ISA Base and Extension: rv32imac
 * c – Standard Extension for Compressed Instructions. 
 
 After installation complete, checkout the folder whhich you install, in this case`/opt/mpb-toolchain/bin`.
-There should be lot binary file such as ricv32-mapleboard-elf-ar, ricv32-mapleboard-elf-gcc, ricv32-mapleboard-elf-gdb.
+There should be alot shared library file such as ricv32-mapleboard-elf-ar, ricv32-mapleboard-elf-gcc, ricv32-mapleboard-elf-gdb.
 
 
 If any question, please contact to jb@ces.com.tw
