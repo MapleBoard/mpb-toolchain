@@ -1,4 +1,6 @@
 This toolchain is for GD32 RISC-V Nano/Pico development board
+CPU: GD32VF103CBT6
+
 The origin repositry is at: https://github.com/riscv-mcu/riscv-gnu-toolchain provided by nuclei.(updated: Autoconf error)
 
 The RISC-V original toolchain source is at : https://github.com/riscv/riscv-gnu-toolchain provided by RISC-V foundation.  
